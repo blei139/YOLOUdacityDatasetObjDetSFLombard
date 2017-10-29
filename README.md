@@ -8,4 +8,4 @@ Instruction to run the YOLO object detection executable command:
 2) In the scripts directory in linux or ubuntu, type the executable command: ./YOLOobjectDetect and from windows anaconda prompt or linux or ubuntu prompt in the same directory type: jupyter notebook pedestrianDetection.ipynb. This command will produce YOLO object detection videos from the videos I took from the San Francisco Sunset District.
 
 See my youtube link here:
-https://github.com/blei139/YOLOUdacityDatasetObjDetSFLombard.git
+https://youtu.be/_nxiYXDC4og
